@@ -1,4 +1,4 @@
-# Water Segmentation Base Model（核心用法）
+# Water Segmentation Base Model
 
 本仓库提供水体分割基础模型的训练/测试脚本，并配套多通道 TIFF（默认 3 通道，可改 6/11/…）的数据读取与列表生成工具。
 
@@ -89,6 +89,5 @@ python test.py \
 ```
 
 ## References
-- [TransUnet](https://github.com/Beckschen/TransUNet)
-- [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
+- [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 # Water-Segmentation-Base-Model
